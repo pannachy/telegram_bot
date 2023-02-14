@@ -13,3 +13,11 @@
 ### Используемые инструменты
 
 Python, Seaborn, telegrammAPI, AirFlow, Superset
+
+### Файлы
+__telegram_bot.py__ - скрипт дага с решением задачи
+
+__alert_dashboard.jpeg__ - скрин дашборда с отслеживаемыми метриками
+
+__phone_screen.jpeg__ - скрин телефона с оповещением
+
